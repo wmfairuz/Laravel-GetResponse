@@ -1,7 +1,7 @@
 {
-  "name": "dangermark/laravel-getresponse",
+  "name": "wmfairuz/laravel-getresponse",
   "description": "A Laravel 6 wrapper for the GetResponse API",
-  "keywords": ["laravel", "laravel5", "getresponse"],
+  "keywords": ["laravel", "laravel6", "getresponse"],
   "license": "MIT",
   "authors": [
     {
